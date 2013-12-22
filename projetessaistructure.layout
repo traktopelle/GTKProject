@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="cycle.txt" open="1" top="0" tabpos="8">
+		<Cursor position="128" topLine="0" />
+	</File>
+	<File name="cycle2.txt" open="1" top="0" tabpos="13">
+		<Cursor position="193" topLine="0" />
+	</File>
+	<File name="evenements_menu_principal.c" open="1" top="0" tabpos="7">
+		<Cursor position="516" topLine="0" />
+	</File>
+	<File name="evenements_tableau_jeu.c" open="1" top="0" tabpos="9">
+		<Cursor position="3792" topLine="64" />
+	</File>
+	<File name="header.h" open="1" top="1" tabpos="6">
+		<Cursor position="373" topLine="0" />
+	</File>
+	<File name="infos.txt" open="1" top="0" tabpos="10">
+		<Cursor position="238" topLine="0" />
+	</File>
+	<File name="instructions.txt" open="1" top="0" tabpos="15">
+		<Cursor position="593" topLine="0" />
+	</File>
+	<File name="log.txt" open="1" top="0" tabpos="19">
+		<Cursor position="49562" topLine="1042" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1">
+		<Cursor position="493" topLine="9" />
+	</File>
+	<File name="modele_menu_principal.c" open="1" top="0" tabpos="11">
+		<Cursor position="1356" topLine="10" />
+	</File>
+	<File name="modele_pile.c" open="1" top="0" tabpos="12">
+		<Cursor position="1243" topLine="31" />
+	</File>
+	<File name="modele_tableau_jeu.c" open="1" top="0" tabpos="16">
+		<Cursor position="356" topLine="12" />
+	</File>
+	<File name="modele_tests_unitaires.c" open="1" top="0" tabpos="17">
+		<Cursor position="218" topLine="0" />
+	</File>
+	<File name="sousprog.c" open="1" top="0" tabpos="2">
+		<Cursor position="1732" topLine="45" />
+	</File>
+	<File name="test.txt" open="1" top="0" tabpos="18">
+		<Cursor position="128" topLine="0" />
+	</File>
+	<File name="variables globales.h" open="1" top="0" tabpos="3">
+		<Cursor position="271" topLine="0" />
+	</File>
+	<File name="vue_instructions.c" open="1" top="0" tabpos="14">
+		<Cursor position="731" topLine="0" />
+	</File>
+	<File name="vue_menu_principal.c" open="1" top="0" tabpos="5">
+		<Cursor position="408" topLine="0" />
+	</File>
+	<File name="vue_tableau_jeu.c" open="1" top="0" tabpos="4">
+		<Cursor position="6875" topLine="246" />
+	</File>
+</CodeBlocks_layout_file>

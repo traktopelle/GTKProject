@@ -1,0 +1,8 @@
+<b>
+SUPER MARIO CONNECT
+
+Réalisez des circuits complet à l'aide des pièces disponibles dans la pioche!
+Cliquez sur une case du tableau pour y positionner la pièce en cours, attention seuls les cycles totalement fermés (sans aucune ouverture possible) seront comptabilisés!
+Vous pouvez superposer, si cela est possible, la pièce en cours avec une pièce déjà disposée sur le tableau de jeu en cliquant dessus!
+Réalisez le meilleur score, mais attention, le nombre de pièce disponible est limité! Réalisez des circuits fermés pour être réapprovisionné en pièces!
+</b>

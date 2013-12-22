@@ -1,0 +1,4 @@
+
+<span face=\"Courier New\"><b>Courier New 10 Gras</b></span>\n
+<span font_desc=\"Times New Roman italic 12\" foreground=\"#0000FF\">Times New Roman 12 Italique</span>\n
+<span face=\"Sans\" size=\"16\"><u>Sans 16 Souligné</u></span>
